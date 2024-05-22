@@ -1,3 +1,7 @@
 hellow all
 hellow all changes
+<<<<<<< HEAD
 new changes
+=======
+now simulate conflict
+>>>>>>> refs/remotes/origin/main
